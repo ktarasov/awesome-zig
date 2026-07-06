@@ -292,6 +292,8 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - A protobuf 3 implementation for Zig.
 - [mattnite/protobuf](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.
 - [nDimensional/zig-flatbuffers](https://github.com/nDimensional/zig-flatbuffers) - FlatBuffers codegen for Zig, in Zig.
+- [MASS4/MEGA4/KTX2](https://gitlab.com/mass4org/mega4/ktx2) - Engine-independent KTX2 texture reader for Zig, decoding compressed and Basis Universal textures to GPU-ready images.
+- [MASS4/MEGA4/GUID](https://gitlab.com/mass4org/mega4/guid) - Standalone GUID/UUID library supporting `RFC 4122` v4 and `RFC 9562` v6 (time-ordered) with optional `serde` integration.
 
 ### Date, Time and Timezones
 
@@ -554,6 +556,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [BanchouBoo/algae](https://github.com/BanchouBoo/algae) - Zig math library focused on game development.
 - [JungerBoyo/zmath](https://github.com/JungerBoyo/zmath) - Simple linear algebra library written in Zig.
 - [pblischak/zprob](https://github.com/pblischak/zprob) - A Zig Library for Probability Distributions.
+- [MASS4/MEGA4/Math-3D](https://gitlab.com/mass4org/mega4/math-3d) - Multi-precision 3D math library (f16/f32/f64) with vectors, matrices, quaternions, rays, and 2D collision primitives.
 
 ### Scientific Computation
 
@@ -621,6 +624,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) - Voxel ray tracing using Vulkan compute.
 - [akhildevelops/cudaz](https://github.com/akhildevelops/cudaz) - Cuda wrapper for interacting with GPUs in Zig.
 - [e253/zig-ocl](https://github.com/e253/zig-ocl) - Static Zig Build of the OpenCL ICD Loader from Khronos Group.
+- [MASS4/MEGA4/GPU](https://gitlab.com/mass4org/mega4/gpu) - Minimal window + GPU device platform layer for Zig built on `SDL3`'s GPU API (`Vulkan`/`Metal`/`D3D12`).
 
 ### Graphics Library
 
@@ -714,6 +718,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [Avokadoen/ecez_vulkan](https://github.com/Avokadoen/ecez_vulkan) - A scene editor built on [ecez](https://github.com/Avokadoen/ecez) and Vulkan.
 - [GasInfinity/zitrus](https://codeberg.org/GasInfinity/zitrus) - A 3DS SDK with all the bells and whistles in pure Zig.
 - [deckarep/CosmicInvaders](https://github.com/deckarep/CosmicInvaders) - A pixel-art Space Invaders + Tower Defense game written in Zig with raylib.
+- [MASS4/MEGA4/Turian](https://gitlab.com/mass4org/mega4/turian) - A component-based 3D game engine + editor built entirely in Zig with a Unity-style workflow.
 
 ### Audio Processing
 
