@@ -325,6 +325,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [xcaeser/zli](https://github.com/xcaeser/zli) - Zig command-line interfaces made easy. A blazing fast CLI framework. Build ergonomic, high-performance command-line tools with Zig.
 - [CogitatorTech/chilli](https://github.com/CogitatorTech/chilli) - Chilli 🌶️ is a minimalistic CLI framework for Zig.
 - [plutowang/zlap](https://github.com/plutowang/zlap) - A declarative, fluent, and type-safe command-line argument parser for Zig with subcommand support, inspired by Rust's clap.
+- [muhammad-fiaz/args.zig](https://github.com/muhammad-fiaz/args.zig) - Fast, powerful, and developer-friendly CLI argument parsing library for Zig.
 
 ### Finite State Machine
 
@@ -432,6 +433,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [Vexu/routez](https://github.com/Vexu/routez) - HTTP server for Zig.
 - [Vexu/zuri](https://github.com/Vexu/zuri) - URI parser for Zig.
 - [karlseguin/http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server for Zig.
+- [muhammad-fiaz/httpx.zig](https://github.com/muhammad-fiaz/httpx.zig) - Production-ready HTTP/1.x/2/3 client and server runtime for Zig with proxy support, concurrency, and protocol primitives.
 - [ducdetronquito/h11](https://github.com/ducdetronquito/h11) - I/O-free HTTP/1.1 implementation inspired by hyper/h11.
 - [lun-4/zigdig](https://github.com/lun-4/zigdig) - Naive dns client library in Zig.
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) - Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard.
