@@ -250,6 +250,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 - [OrlovEvgeny/zigquery](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
 - [tree-sitter/zig-tree-sitter](https://github.com/tree-sitter/zig-tree-sitter) - Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
+- [eoan-ermine/zig-strparse](https://github.com/eoan-ermine/zig-strparse) - Generic string parsing library for Zig.
 
 ### Logging Processing
 
