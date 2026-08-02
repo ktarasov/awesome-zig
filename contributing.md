@@ -1,5 +1,8 @@
 # Contribution Guidelines
 
+This repository lists "awesome" Zig projects and ecosystem tools, maintained by the ZigCC community.
+If you find a well-maintained library that is not yet included here, welcome to submit it via a pull request. Just be sure to execute `make all` before you open a PR.
+
 > TL;DR: Entry has to be actively maintained and awesome. Follow the existing style. Run `make all` before you open a PR.
 
 Please note that this project is released with a
@@ -14,6 +17,7 @@ Ensure a pull request adheres to the following guidelines:
 
 - Collect anything that's useful and actively maintained
 - Follow the style guide of awesome lists to keep things organized
+- Add new entries to the end of the existing list
 - Sort entries into the archive (awesome-but-inactive.md), when needed
 
 Thank you for your suggestions!
