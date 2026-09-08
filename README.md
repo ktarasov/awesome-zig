@@ -147,6 +147,7 @@
 
 ### Utility
 
+- [CheckLinks](https://github.com/ktarasov/check_links) - CheckLinks is a command-line utility (CLI) written in Zig for checking links on a web page.
 - [BrookJeynes/jido](https://github.com/BrookJeynes/jido) - Jido (formerly known as zte) is a small terminal file explorer, written in Zig.
 - [fearedbliss/Honeydew](https://codeberg.org/fearedbliss/Honeydew) - A simple snapshot cleaner for OpenZFS written in Zig.
 - [fearedbliss/Cantaloupe](https://codeberg.org/fearedbliss/Cantaloupe) - A simple backup replication tool for OpenZFS written in Zig.
